@@ -1,19 +1,19 @@
 # System Performance Report 
  
 ## 1. Buffer Result 
-![Buffer Result](Screenshots/screenshot-buffer.png) 
+![Buffer Result](screenshots/screenshot-buffer.png) 
  
 ## 2. Stream Result 
-![Stream Result](Screenshots/screenshot-stream.png) 
+![Stream Result](screenshots/screenshot-stream.png) 
  
 ## 3. day1-perf.json Output 
-![Perf JSON](Screenshots/screenshot-perf.png) 
+![Perf JSON](screenshots/screenshot-perf.png) 
  
 ## 4. Git Commits 
-![Git Commits](Screenshots/screenshot-commits.png) 
+![Git Commits](screenshots/screenshot-commits.png) 
  
 ## 5. Introspect Output 
-![Introspect](Screenshots/screenshot-introspect.png) 
+![Introspect](screenshots/screenshot-introspect.png) 
  
 ## Conclusion 
  
