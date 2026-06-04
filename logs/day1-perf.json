@@ -1,0 +1,28 @@
+{
+  "reportDate": "2026-06-04T06:34:10.085Z",
+  "task": "Stream vs Buffer Performance Benchmark",
+  "fileSize": "50 MB",
+  "results": {
+    "buffer": {
+      "method": "Buffer - fs.readFile",
+      "fileSizeMB": "50.00 MB",
+      "executionTimeMs": "53.62 ms",
+      "memoryBeforeMB": "4.62 MB",
+      "memoryAfterMB": "4.67 MB",
+      "memoryUsedMB": "0.05 MB"
+    },
+    "stream": {
+      "method": "Stream - fs.createReadStream",
+      "fileSizeMB": "50.00 MB",
+      "executionTimeMs": "87.09 ms",
+      "memoryBeforeMB": "4.62 MB",
+      "memoryAfterMB": "5.41 MB",
+      "memoryUsedMB": "0.79 MB"
+    }
+  },
+  "conclusion": {
+    "fasterMethod": "Stream",
+    "lowerMemory": "Stream",
+    "recommendation": "Use Stream for large files. Buffer loads entire file into memory."
+  }
+}
