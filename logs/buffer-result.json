@@ -1,0 +1,8 @@
+{
+  "method": "Buffer - fs.readFile",
+  "fileSizeMB": "50.00 MB",
+  "executionTimeMs": "53.62 ms",
+  "memoryBeforeMB": "4.62 MB",
+  "memoryAfterMB": "4.67 MB",
+  "memoryUsedMB": "0.05 MB"
+}
