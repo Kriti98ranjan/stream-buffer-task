@@ -1,8 +1,8 @@
 {
   "method": "Stream - fs.createReadStream",
   "fileSizeMB": "50.00 MB",
-  "executionTimeMs": "87.09 ms",
+  "executionTimeMs": "85.08 ms",
   "memoryBeforeMB": "4.62 MB",
-  "memoryAfterMB": "5.41 MB",
-  "memoryUsedMB": "0.79 MB"
+  "memoryAfterMB": "5.44 MB",
+  "memoryUsedMB": "0.81 MB"
 }
