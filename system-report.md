@@ -15,11 +15,6 @@
 ## 5. Introspect Output 
 ![Introspect](Screenshots/screenshot-introspect.png) 
  
-## 6. Conclusion 
-- Buffer: 44.32ms, 0.05MB memory used 
-- Stream: 75.30ms, 0.80MB memory used 
-- For this test, the Buffer implementation performed better than the Stream implementation.Buffer completed the operation in 44.32ms compared to 75.30ms for Stream and used less memory 
- 
 ## Conclusion 
  
 ### Buffer vs Stream Comparison 
